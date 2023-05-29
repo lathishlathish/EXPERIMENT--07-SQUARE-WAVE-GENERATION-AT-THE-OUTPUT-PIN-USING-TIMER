@@ -92,8 +92,8 @@ Step14. click on debug and simulate using simulation as shown below
 
 ## STM 32 CUBE PROGRAM :
 ```
-Developed By:V.kabilan
-Reg.No:212222100018cc SX 1VC
+Developed By:M.LATHISH KANNA
+Reg.No:212222230073
 ```
 ```
 /* USER CODE BEGIN Header */
